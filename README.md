@@ -10,7 +10,7 @@ The analysis was carried out using python, and libraries used include Pandas, an
 - The Oldest Business in the World
 - The Oldest Business in each continent
 - The Oldest Industries
-- The Oldest Inustries in each Continent
+- The Oldest Industries in each Continent
 
 #### Steps Taken:
 - The Steps and descriptions can be found within the jupyter file
